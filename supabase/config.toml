@@ -1,0 +1,20 @@
+[functions.paystack-init]
+verify_jwt = true
+
+[functions.paystack-verify]
+verify_jwt = true
+
+[functions.paystack-charge]
+verify_jwt = true
+
+[functions.reloadly-token]
+verify_jwt = true
+
+[functions.reloadly-airtime]
+verify_jwt = true
+
+[functions.reloadly-data]
+verify_jwt = true
+
+[functions.reloadly-giftcard]
+verify_jwt = true
